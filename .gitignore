@@ -1,0 +1,3 @@
+# Übersetzte Klassen gehören nicht ins Repository
+*.class
+bin/
